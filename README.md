@@ -44,8 +44,8 @@ python -m venv venv
 source venv/bin/activate  # Sur Windows : .\venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py 
-
-
+```
+---
 ## 📊 Données utilisées
 
 Les données concernent environ **1000 films** et incluent :
